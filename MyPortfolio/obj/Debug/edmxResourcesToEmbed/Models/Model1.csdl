@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PortfolioDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_AboutUs">
+    <Key>
+      <PropertyRef Name="AboutUs_id" />
+    </Key>
+    <Property Name="AboutUs_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_id" Type="Int32" />
+    <Property Name="AboutUs" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tbl_Educations">
+    <Key>
+      <PropertyRef Name="Education_id" />
+    </Key>
+    <Property Name="Education_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_id" Type="Int32" />
+    <Property Name="SchoolName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Field" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StartingDate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GraduationDate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EducationDetail" Type="String" MaxLength="300" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tbl_Experiences">
+    <Key>
+      <PropertyRef Name="Experience_id" />
+    </Key>
+    <Property Name="Experience_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_id" Type="Int32" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Company" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Duration" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ExperienceDetail" Type="String" MaxLength="350" FixedLength="false" Unicode="true" />
+    <Property Name="Department" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tbl_Profile">
+    <Key>
+      <PropertyRef Name="User_id" />
+    </Key>
+    <Property Name="User_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Image" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gsm" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Linkedin" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Facebook" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Twitter" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Instagram" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tbl_Skills">
+    <Key>
+      <PropertyRef Name="Skill_id" />
+    </Key>
+    <Property Name="Skill_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_id" Type="Int32" />
+    <Property Name="SkillName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SkillDetail" Type="String" MaxLength="350" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tbl_User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserProfileImage" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserInformation" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="PortfolioDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_AboutUs" EntityType="Self.tbl_AboutUs" />
+    <EntitySet Name="tbl_Educations" EntityType="Self.tbl_Educations" />
+    <EntitySet Name="tbl_Experiences" EntityType="Self.tbl_Experiences" />
+    <EntitySet Name="tbl_Profile" EntityType="Self.tbl_Profile" />
+    <EntitySet Name="tbl_Skills" EntityType="Self.tbl_Skills" />
+    <EntitySet Name="tbl_User" EntityType="Self.tbl_User" />
+  </EntityContainer>
+</Schema>

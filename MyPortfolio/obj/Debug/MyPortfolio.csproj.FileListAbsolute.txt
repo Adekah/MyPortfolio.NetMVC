@@ -1,0 +1,215 @@
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\MyPortfolio.dll.config
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\MyPortfolio.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\MyPortfolio.pdb
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\csc.exe
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\csc.exe.config
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\csc.rsp
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\csi.exe
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\csi.exe.config
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\csi.rsp
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.AppContext.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Console.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Compression.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Claims.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.ValueTuple.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\vbc.exe
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\vbc.exe.config
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\vbc.rsp
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Helpers.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Mvc.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Razor.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Deployment.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Razor.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Razor.xml
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.xml
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Deployment.xml
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Razor.xml
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Helpers.xml
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\System.Web.Mvc.xml
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojAssemblyReference.cache
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CopyComplete
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.dll
+C:\Users\adeka\Source\Repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\MyPortfolio.dll.config
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\MyPortfolio.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\MyPortfolio.pdb
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\csc.exe
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\csc.exe.config
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\csc.rsp
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\csi.exe
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\csi.exe.config
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\csi.rsp
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.AppContext.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Console.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Compression.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Claims.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.ValueTuple.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\vbc.exe
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\vbc.exe.config
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\vbc.rsp
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Helpers.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Mvc.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Razor.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Deployment.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Razor.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Razor.xml
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.xml
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Deployment.xml
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Razor.xml
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Helpers.xml
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\System.Web.Mvc.xml
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojAssemblyReference.cache
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CopyComplete
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\EntityFramework.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\EntityFramework.SqlServer.dll
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\EntityFramework.xml
+C:\Users\adeka\Desktop\Portfolyo Projesi\MyPortfolio\MyPortfolio\bin\EntityFramework.SqlServer.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojAssemblyReference.cache
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\MyPortfolio.dll.config
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\MyPortfolio.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\MyPortfolio.pdb
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\csc.exe
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\csc.exe.config
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\csc.rsp
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\csi.exe
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\csi.exe.config
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\csi.rsp
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.AppContext.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Console.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Compression.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Claims.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.ValueTuple.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\vbc.exe
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\vbc.exe.config
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\vbc.rsp
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\EntityFramework.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\EntityFramework.SqlServer.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Helpers.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Mvc.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Razor.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Razor.dll
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\EntityFramework.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\EntityFramework.SqlServer.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Razor.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Webpages.Razor.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Helpers.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\System.Web.Mvc.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MyAsus\Desktop\Portfolyo Projesi(.NET)\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CopyComplete
