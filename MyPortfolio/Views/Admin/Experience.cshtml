@@ -6,13 +6,13 @@
 
 <script>
     $(document).on('click', '#input_experience_button_id', function () {
-        if ($('#input_position_id').val().length <= 1) {
+        if ($('#input_title_id').val().length <= 1) {
             toastr.error("İş Pozisyonu Bölümü Boş Bırakılmamalı..", "Eksik Bilgi")
         }
         if ($('#input_company_id').val().length <= 1) {
             toastr.error("Firma Adı Bölümü Boş Bırakılmamalı..", "Eksik Bilgi")
         }
-        if ($('#input_date_id').val().length <= 1) {
+        if ($('#input_duration_id').val().length <= 1) {
             toastr.error("Çalışma Süresi Bölümü Boş Bırakılmamalı..", "Eksik Bilgi")
         }
         else {
@@ -31,26 +31,30 @@
 
 
 </script>
-<div class="panel" style="text-align:center">
-    <div class="panel-body">
-        <h2>Tecrübelerim</h2>
-        <br /> <br /> <br />
-        <div class="col-md-4">
-            <span class="ExpSpan">Pozisyon</span>
-            <input type="text" class="form-control İnputBorder" id="input_position_id" /><br />
-            <span class="ExpSpan">Şirket Adı</span>
-            <input type="text" class="form-control İnputBorder" id="input_company_id" /><br />
-            <span class="ExpSpan">Tarih</span>
-            <input type="text" class="form-control İnputBorder" id="input_date_id" /><br />
-        </div>
+@using (Html.BeginForm("Experience", "Admin", FormMethod.Post, new { id = "FormExperience" }))
+{
+    <div class="panel" style="text-align:center">
+        <div class="panel-body">
+            <h2>Tecrübelerim</h2>
+            <br /> <br /> <br />
+            <div class="col-md-4">
+                <span class="ExpSpan">Pozisyon</span>
+                <input type="text" class="form-control İnputBorder" name="input_title_name" id="input_title_id" /><br />
+                <span class="ExpSpan">Şirket Adı</span>
+                <input type="text" class="form-control İnputBorder" name="input_company_name" id="input_company_id" /><br />
+                <span class="ExpSpan">Çalışma Süresi</span>
+                <input type="text" class="form-control İnputBorder" name="input_duration_name" id="input_duration_id" /><br />
+            </div>
 
-        <div class="col-md-8">
-            <span style="font-weight:bold;font-size:18px">Tecrübe Detayı</span>
-            <textarea class="form-control İnputBorder" id="input_experienceDetail_id"></textarea><br />
+            <div class="col-md-8">
+                <span style="font-weight:bold;font-size:18px">Tecrübe Detayı</span>
+                <textarea class="form-control İnputBorder"  name="input_experienceDetail_name" id="input_experienceDetail_id" rows="5"></textarea><br />
+            </div>
+            <input type="submit" class="btn btn-success" value="Yayınla" id="input_experience_button_id" />
         </div>
-        <input type="button" class="btn btn-success" value="Yayınla" id="input_experience_button_id" />
     </div>
-</div>
+
+}
 
 
 
@@ -61,7 +65,7 @@
         <table id="example" class="table table-striped table-bordered" style="width:100%">
             <thead>
                 <tr>
-                    <th>TecrübeId</th>
+                    <th>Id</th>
                     <th>Pozisyon</th>
                     <th>Şirket Adı</th>
                     <th>Tarih</th>

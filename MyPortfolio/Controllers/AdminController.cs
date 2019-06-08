@@ -43,16 +43,23 @@ namespace MyPortfolio.Controllers
 
             return View();
         }
+
+        public ActionResult Experience()
+        {
+            return View();
+        }
         [HttpPost]
-        public ActionResult Experience(int experienceid,string title,string company,string duration, string expDetail,string departmen,tbl_Experiences _Experience)
+        public ActionResult Experience(tbl_Experiences _Experience,FormCollection formexperience)
         {
 
+            _Experience.Company = formexperience["input_company_name"];
+            _Experience.Duration = formexperience["input_duration_name"];
+            _Experience.ExperienceDetail = formexperience["input_experienceDetail_name"];
+            _Experience.Title = formexperience["input_title_name"];
+            Data.Data.SaveExperienceDetail(_Experience);
             return View();
         }
-    public ActionResult Experience()
-        {
-            return View();
-        }
+   
 
         [HttpPost]
         public ActionResult Adminlogin(string username, string password)

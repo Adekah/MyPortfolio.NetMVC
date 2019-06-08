@@ -47,10 +47,36 @@ namespace MyPortfolio.Data
                 return db.tbl_User.Where(a => a.Username == username && a.UserPassword == password).SingleOrDefault();
             }
         }
+        public static bool SaveExperienceDetail(tbl_Experiences _Experience)
+        {
+            bool _result = true;
+            using (PortfolioDBEntities db = new PortfolioDBEntities())
+            {
+                try
+                {
+                    if (_Experience.Experience_id == 0)
+                    {
+                        _Experience.User_id = 1;
+                        db.tbl_Experiences.Add(_Experience);
+                    }
+                    else
+                    {
+                        db.tbl_Experiences.Attach(_Experience);
+                        db.Entry(_Experience).State = System.Data.Entity.EntityState.Modified;
+                    }
+                    db.SaveChanges();
+                }
+                catch (Exception)
+                {
+                    _result = true;
+                }
 
+            }
+            return _result;
+        }
         public static bool SaveAboutus(tbl_AboutUs _AboutUs)
         {
-        bool _result = true;
+            bool _result = true;
             using (PortfolioDBEntities db = new PortfolioDBEntities())
 
             {
@@ -77,6 +103,6 @@ namespace MyPortfolio.Data
         }
 
 
-      
+
     }
 }

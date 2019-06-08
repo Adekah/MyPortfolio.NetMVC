@@ -24,15 +24,15 @@
     margin-top: 25px;
 }
 .İnputBorder {
-    border: inset;
+
     border-radius: 10px;
 }
 
-#input_experience_button_id{
-    width:200px;
-    float:right;
-    margin-top:35px;
-    margin-right:20px;
+#input_experience_button_id {
+    width: 200px;
+    float: right;
+    margin-top: 35px;
+    margin-right: 20px;
 }
 .ExpSpan {
     font-weight: bold;
