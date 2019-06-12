@@ -20,16 +20,17 @@ namespace MyPortfolio.Controllers
         {
             return View();
         }
+
         [HttpPost]
-        public ActionResult AboutUs(int aboutusid, string aboutus,tbl_AboutUs _Aboutus)
+        public ActionResult AboutUs(int aboutusid, string aboutus, tbl_AboutUs _Aboutus)
         {
             _Aboutus.AboutUs_id = aboutusid;
             _Aboutus.AboutUs = aboutus;
 
-      Data.Data.SaveAboutus(_Aboutus);
+            Data.Data.SaveAboutus(_Aboutus);
             return View();
         }
-     
+
         public ActionResult Aboutus()
         {
 
@@ -44,12 +45,21 @@ namespace MyPortfolio.Controllers
             return View();
         }
 
-        public ActionResult Experience()
+        public ActionResult Experience(int? id)
         {
+            if (id != null)
+            {
+                tbl_Experiences _Experiences = Data.Data.get_experience(id);
+                ViewBag.TitleBag = _Experiences.Title;
+                ViewBag.ExperienceDetailBag = _Experiences.ExperienceDetail;
+                ViewBag.CompanyBag = _Experiences.Company;
+                ViewBag.DurationBag = _Experiences.Duration;
+
+            }
             return View();
         }
         [HttpPost]
-        public ActionResult Experience(tbl_Experiences _Experience,FormCollection formexperience)
+        public ActionResult Experience(tbl_Experiences _Experience, FormCollection formexperience)
         {
 
             _Experience.Company = formexperience["input_company_name"];
@@ -59,7 +69,7 @@ namespace MyPortfolio.Controllers
             Data.Data.SaveExperienceDetail(_Experience);
             return View();
         }
-   
+
 
         [HttpPost]
         public ActionResult Adminlogin(string username, string password)

@@ -21,7 +21,7 @@ namespace MyPortfolio.Controllers
             ViewBag.User = Data.Data.get_profile(1);
             ViewBag.AboutUs = Data.Data.get_aboutus(1);
             ViewBag.EducationInfo = Data.Data.get_education();
-            ViewBag.ExperienceInfo = Data.Data.get_experience();
+            ViewBag.ExperienceInfo = Data.Data.get_all_experience();
             return View();
         }
     }

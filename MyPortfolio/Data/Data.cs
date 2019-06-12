@@ -32,11 +32,18 @@ namespace MyPortfolio.Data
                 return db.tbl_Educations.ToList();
             }
         }
-        public static List<tbl_Experiences> get_experience()
+        public static List<tbl_Experiences> get_all_experience()
         {
             using (PortfolioDBEntities db = new PortfolioDBEntities())
             {
                 return db.tbl_Experiences.ToList();
+            }
+        }
+        public static tbl_Experiences get_experience(int? id)
+        {
+            using (PortfolioDBEntities db = new PortfolioDBEntities())
+            {
+                return db.tbl_Experiences.Where(a => a.Experience_id == id).SingleOrDefault();
             }
         }
 

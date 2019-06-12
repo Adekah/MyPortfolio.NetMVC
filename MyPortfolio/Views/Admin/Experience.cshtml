@@ -1,4 +1,4 @@
-﻿
+﻿@model MyPortfolio.Models.tbl_Experiences
 @{
     ViewBag.Title = "Experience";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
@@ -39,16 +39,16 @@
             <br /> <br /> <br />
             <div class="col-md-4">
                 <span class="ExpSpan">Pozisyon</span>
-                <input type="text" class="form-control İnputBorder" name="input_title_name" id="input_title_id" /><br />
+                <input type="text" class="form-control İnputBorder" name="input_title_name" id="input_title_id" value="@ViewBag.TitleBag" /><br />
                 <span class="ExpSpan">Şirket Adı</span>
-                <input type="text" class="form-control İnputBorder" name="input_company_name" id="input_company_id" /><br />
+                <input type="text" class="form-control İnputBorder" name="input_company_name" id="input_company_id" value="@ViewBag.CompanyBag" /><br />
                 <span class="ExpSpan">Çalışma Süresi</span>
-                <input type="text" class="form-control İnputBorder" name="input_duration_name" id="input_duration_id" /><br />
+                <input type="text" class="form-control İnputBorder" name="input_duration_name" id="input_duration_id" value="@ViewBag.DurationBag" /><br />
             </div>
 
             <div class="col-md-8">
                 <span style="font-weight:bold;font-size:18px">Tecrübe Detayı</span>
-                <textarea class="form-control İnputBorder"  name="input_experienceDetail_name" id="input_experienceDetail_id" rows="5"></textarea><br />
+                <textarea class="form-control İnputBorder" name="input_experienceDetail_name" id="input_experienceDetail_id" rows="5">@ViewBag.ExperienceDetailBag</textarea><br />
             </div>
             <input type="submit" class="btn btn-success" value="Yayınla" id="input_experience_button_id" />
         </div>
@@ -76,7 +76,7 @@
                 </tr>
             </thead>
             <tbody>
-                @{ List<MyPortfolio.Models.tbl_Experiences> _Experiences = MyPortfolio.Data.Data.get_experience();}
+                @{ List<MyPortfolio.Models.tbl_Experiences> _Experiences = MyPortfolio.Data.Data.get_all_experience();}
                 @foreach (var Experiences in _Experiences)
                 {
                     <tr>
@@ -85,8 +85,12 @@
                         <td>@Experiences.Company</td>
                         <td>@Experiences.Duration</td>
                         <td>@Experiences.ExperienceDetail</td>
-                        <td> <i class="fa fa-trash" style="color:red" title="Sil" id="input_experience_delete_id" ExpID="" value="@Experiences.Experience_id"></i></td>
-                        <td><i class="fa fa-save" style="color:darkorange" title="Güncelle" value="@Experiences.Experience_id"></i></td>
+                        <td><i class="fa fa-trash" style="color:red" title="Sil" id="input_experience_delete_id" ExpID="" value="@Experiences.Experience_id"></i></td>
+                        <td>
+                            <a href="~/Admin/Experience/@Experiences.Experience_id">
+                                <i class="fa fa-save" style="color:darkorange" title="Güncelle"></i>
+                            </a>
+                        </td>
                         <td><i class=" fa fa-pencil" style="color:cornflowerblue" title="Detaya Git" value="@Experiences.Experience_id"></i></td>
 
                     </tr>
